@@ -1,5 +1,5 @@
 import readline from "readline-sync";
-import { Queue } from "./Queue.ts";
+import { Queue } from "./Queue";
 
 const fila = new Queue<string>();
 

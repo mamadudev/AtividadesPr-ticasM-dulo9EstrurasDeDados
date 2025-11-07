@@ -13,7 +13,7 @@
     "@types/node": "^24.10.0",
     "readline-sync": "^1.4.10"
   },
-  "type": "module",
+  "type": "commonjs",
   "devDependencies": {
     "@types/readline-sync": "^1.4.8"
   }
